@@ -4,4 +4,9 @@ import com.example.com.remotecommand.controllers.IHistory;
 
 public class HistoryImpl implements IHistory {
 
+
+    @Override
+    public void GetHistory() {
+
+    }
 }
